@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+}
+
+td, th {
+  width: 15%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.delete {
+  color: crimson;
+}
+
+.botonAcciones {
+  cursor: pointer;
+}
+
+.edit {
+  color: cornflowerblue;
+}
+
+.agregar {
+  font-size: 10px;
+  line-height: 28px;
+}
